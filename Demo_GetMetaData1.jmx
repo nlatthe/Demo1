@@ -26,12 +26,12 @@
         <collectionProp name="Arguments.arguments">
           <elementProp name="Company_ID" elementType="Argument">
             <stringProp name="Argument.name">Company_ID</stringProp>
-            <stringProp name="Argument.value">02</stringProp>
+            <stringProp name="Argument.value">05</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="Host_Name" elementType="Argument">
             <stringProp name="Argument.name">Host_Name</stringProp>
-            <stringProp name="Argument.value">m2mperformance.aptean.com</stringProp>
+            <stringProp name="Argument.value">m2mazure.aptean.com</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="P_Cust_PO_Num" elementType="Argument">
@@ -82,10 +82,9 @@
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
                   <stringProp name="Argument.value">{&#xd;
     &quot;locale&quot;: &quot;en&quot;,&#xd;
-    &quot;logonId&quot;: &quot;perf1&quot;,&#xd;
+    &quot;logonId&quot;: &quot;USER1&quot;,&#xd;
     &quot;password&quot;: &quot;PASS&quot;,&#xd;
-    &quot;tenantFieldName&quot;: &quot;m2mperformance.aptean.com&quot;&#xd;
-}</stringProp>
+ }</stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
               </collectionProp>
